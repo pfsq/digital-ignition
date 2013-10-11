@@ -1,0 +1,8 @@
+# Files from MPLAB:
+*.mcs
+*.log
+*.hex
+*.cof
+*.map
+*.o
+*.mcw
